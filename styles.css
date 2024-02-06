@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+*{
+	margin = "0px";
+	padding = "0px";
+}
+#mae{
+	background-color: black;
+            color: white;
+}
